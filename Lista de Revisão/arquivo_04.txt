@@ -1,0 +1,16 @@
+A computação quântica é um campo multidisciplinar que utiliza a mecânica quântica para resolver problemas complexos com maior rapidez do que os computadores tradicionais. 
+
+A computação quântica é baseada em princípios da mecânica quântica, como a superposição e o entrelaçamento quântico. Os computadores quânticos armazenam informações em qubits,
+que podem ter um valor de 0, 1 ou uma mistura de ambos, o que é chamado de "superposição". 
+
+A computação quântica pode ser aplicada em diversas áreas, como:
+
+Machine learning (ML)
+Otimização
+Simulação de sistemas físicos
+Otimização de portfólios em finanças
+Simulação de sistemas químicos
+Pesquisas de dados
+Testes de software 
+
+A computação quântica é uma tecnologia em rápido desenvolvimento, mas ainda apresenta alguns problemas de escalabilidade e coerência.
